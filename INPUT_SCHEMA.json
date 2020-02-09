@@ -1,0 +1,8 @@
+{
+    "title": "user-agents",
+    "description": "Get a cleaned up user-agent list everyday",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": { },
+    "required": []
+}
