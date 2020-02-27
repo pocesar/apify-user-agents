@@ -1,6 +1,6 @@
 {
   "name": "apify-user-agents",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get a cleaned up user-agent list everyday",
   "main": "src/main.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/pocesar/apify-user-agents#readme",
   "devDependencies": {
     "@apify/eslint-config": "0.0.3",
-    "@types/node": "^13.7.0",
+    "@types/node": "^13.7.6",
     "@types/user-agents": "^1.0.0",
     "eslint": "^6.8.0"
   },

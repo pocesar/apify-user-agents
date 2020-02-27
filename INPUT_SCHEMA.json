@@ -3,6 +3,15 @@
     "description": "Get a cleaned up user-agent list everyday",
     "type": "object",
     "schemaVersion": 1,
-    "properties": { },
+    "properties": {
+        "storageName": {
+            "title": "Storage name",
+            "description": "Sets the name of the storage to place the LIST json inside",
+            "default": "user-agents",
+            "prefill": "user-agents",
+            "type": "string",
+            "editor": "textfield"
+        }
+    },
     "required": []
 }
